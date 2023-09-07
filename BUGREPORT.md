@@ -52,7 +52,36 @@ It's often helpful to take a screenshot to be accurate.
 
 <br><br>
 # Example
+## Insert into Leave Comment on Issues Form
 
+````
+**Title Report** : Error When Run or Build Android
+
+**Steps to reproduce** :
+```
+1. Open Android Studio Application.
+2. Select "Run" in the top context menu
+3. Click "Run 'app'" menu.
+4. See error
+```
+
+**Current behaviour** : Why and how to resolve this error?
+
+**Expected behaviour** : Provided a solution to the problem.
+
+**Other comment (optional)** :
+```
+I am very interested in your talent!
+And I am very grateful and looking forward to your next works.
+Thank you for the knowledge that has been shared 💜 
+```
+
+**Relevant logs and/or screenshots (optional)** :
+
+![Title error bug](https://i.imgur.com/YKV5bwp.png)
+````
+
+## PREVIEW
 **Title Report** : Error When Run or Build Android
 
 **Steps to reproduce** :
