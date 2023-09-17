@@ -138,7 +138,7 @@
 <p align="center">
   
   [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=ShellLinuxAutoBackupFile&theme=shadow_blue">](https://github.com/wiefunkdai/ShellLinuxAutoBackupFile)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=AndroidAjaxGetPostRequest&theme=shadow_blue">](https://github.com/wiefunkdai/AndroidAjaxGetPostRequest)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=AndroidAjaxGetPostRequest&theme=shadow_blue">](https://github.com/wiefunkdai/AndroidPHPAjaxGetPostRequest)
   [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=C-NetSDImageResizer&theme=shadow_blue">](https://github.com/wiefunkdai/C-NetSDImageResizer)
   [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=PascalAULWindows&theme=shadow_blue">](https://github.com/wiefunkdai/PascalAULWindows)
 </p>
