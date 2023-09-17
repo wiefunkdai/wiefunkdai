@@ -139,8 +139,8 @@
   
   [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=ShellLinuxAutoBackupFile&theme=shadow_blue">](https://github.com/wiefunkdai/ShellLinuxAutoBackupFile)
   [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=AndroidAjaxGetPostRequest&theme=shadow_blue">](https://github.com/wiefunkdai/AndroidAjaxGetPostRequest)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=C-NetSDImageResizer&theme=shadow_blue">](https://github.com/sdailover/C-NetSDImageResizer)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=PascalAULWindows&theme=shadow_blue">](https://github.com/sdailover/PascalAULWindows)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=C-NetSDImageResizer&theme=shadow_blue">](https://github.com/wiefunkdai/C-NetSDImageResizer)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=PascalAULWindows&theme=shadow_blue">](https://github.com/wiefunkdai/PascalAULWindows)
 </p>
 </details>
 
@@ -164,6 +164,6 @@
 <!--/
 <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wiefunkdai&show_icons=true&theme=shadow_green&line_height=27&rank_icon=percentile&custom_title=Stephanus%20Dai%27s%20Github%20Stats">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&hide=css,html,javascript,typescript&theme=shadow_blue">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&layout=compact&hide=css,html,javascript,typescript&theme=shadow_blue">
 </div>
 /-->
