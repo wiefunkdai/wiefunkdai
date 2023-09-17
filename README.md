@@ -117,7 +117,7 @@
 <br>
 <div>
 <img width=420 src="https://github-readme-stats.vercel.app/api?username=wiefunkdai&show_icons=true&line_height=25&card_width=320&hide_border=false&include_all_commits=true&role=owner,collaborator&show=reviews,stars,commits,prs,prs_merged,prs_merged_percentage,issues,discussions_answered,contribs&rank_icon=percentile&exclude_repo=github-readme-stats&theme=shadow_green&custom_title=Stephanus%20Dai%27s%20Github%20Stats" alt="Stephanus Dai's Github stats" />
-<img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&layout=compact&langs_count=12&card_width=320&hide_border=false&role=owner,collaborator&theme=shadow_blue&line_height=25#gh-light-mode-only" alt="Stephanus Dai's Language stats" />
+<img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&langs_count=12&card_width=320&hide_border=false&role=owner,collaborator&theme=shadow_blue&line_height=25#gh-light-mode-only" alt="Stephanus Dai's Language stats" />
 </div>
 </details>
 
