@@ -1,14 +1,37 @@
-<h2 align="center">Hi👋, I'm Stephanus Dai!</h2>
-<h5 align="center">I'm a passionate Musician, Graphic Designer, Network Administrator, and Software Programmer. 💙</h5>
-
+<h2 align="center">:star: Welcome to My Profile :star:</h2>
+<p align="center">
+  <a href="https://stephanusdai.github.io/">
+    <img src="./stephanusdai-logo.svg" alt="StephanusDai Developer" height="165">
+  </a>
+</p>
+<div align="center"><a href="https://github.com/wiefunkdai"><img src="https://img.shields.io/github/followers/wiefunkdai?label=Follow&style=social"></a></div>
+<h2 align="center">${\color{red}Hi:wave: \space \color{lightblue}I \space am \space \color{darkorange}Stephanus \space Dai!}$</h2>
+<h4 align="center">I'm ${\color{green} PROGRAMMER}$ for coding with HTML/CSS/Javascript, PHP, C#-Net Visual Studio, Java Android from Indonesia. Born with the name ${\color{darkorange} Stephanus\space Bagus\space Saputra}$ &#40; nickname&#58; ${\color{blue} Stephanus\space Dai}$&#59; chinese&#58; ${\color{blue} 戴dai\space 偉wie\space 峯funk}$ &#41;. In developing and creating software, I focus on development projects for ${\color{red}libraries, \space widgets, \space programming \space tools}$ that have a class-oriented object structure. This aims to make program creation easier, more efficient and practical (user-friendly) and make it easier to deal with program bug/crash situations. Greetings and Regards by @wiefunkdai, nice to met you! make love and stay healthy! :blue_heart:</h4>
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/sourceforge-%23FF6600.svg?style=for-the-badge&logo=sourceforge&logoColor=white">](http://sourceforge.net/u/wiefunkdai)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF6600.svg?style=for-the-badge&logo=stackoverflow&logoColor=white">](http://stackoverflow.com/users/22522142)
+</div>
+<p>&nbsp;</p>
 <details open>
 <summary><b>Contact Me</b></summary>
 <p align="center">
-  
+
 [<img src="https://img.shields.io/badge/email-%23d14836.svg?style=for-the-badge&logo=gmail&logoColor=white">](mailto:wiefunk@stephanusdai.web.id)
+[<img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/7ZmTgk8c)
+[<img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/wiefunkdai)
 [<img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=blogger&logoColor=white">](https://stephanusdai.web.id)
-[<img src="https://img.shields.io/badge/subscribe%20GitHub%20Sponsor-%23ea4aaa.svg?style=for-the-badge&logo=githubsponsors&logoColor=white">](https://github.com/sponsors/wiefunkdai)
-[<img src="https://img.shields.io/badge/donation%20via%20paypal-%2300457c.svg?style=for-the-badge&logo=paypal&logoColor=white">](https://www.paypal.com/paypalme/wiefunkdai)
+</p>
+</details>
+
+<hr>
+<details open>
+<summary><b>Support by You</b></summary>
+<p align="center">
+  
+[<img src="https://img.shields.io/badge/gitHub%20sponsor-%23ea4aaa.svg?style=for-the-badge&logo=githubsponsors&logoColor=white">](https://github.com/sponsors/wiefunkdai)
+[<img src="https://img.shields.io/badge/open%20collective-%231877f2.svg?style=for-the-badge&logo=opencollective&logoColor=white">](https://opencollective.com/wiefunkdai)
+[<img src="https://img.shields.io/badge/paypal-%2300457c.svg?style=for-the-badge&logo=paypal&logoColor=white">](https://paypal.me/wiefunkdai)
 </p>
 </details>
 
@@ -90,31 +113,57 @@
 
 <hr>
 <details open>
- <summary> <b>Repository Stats</b>: </summary>
+ <summary> <b>Github Profile Stats</b>: </summary>
 <br>
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wiefunkdai&show_icons=true&theme=shadow_green&line_height=27&custom_title=Stephanus%20Dai%27s%20Github%20Stats">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&hide=css,html,javascript,typescript&theme=shadow_blue">
+<img width=420 src="https://github-readme-stats.vercel.app/api?username=wiefunkdai&show_icons=true&line_height=25&card_width=320&hide_border=false&include_all_commits=true&role=owner,collaborator&show=reviews,stars,commits,prs,prs_merged,prs_merged_percentage,issues,discussions_answered,contribs&rank_icon=percentile&exclude_repo=github-readme-stats&theme=shadow_green&custom_title=Stephanus%20Dai%27s%20Github%20Stats" alt="Stephanus Dai's Github stats" />
+<img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&layout=compact&langs_count=12&card_width=320&hide_border=false&role=owner,collaborator&theme=shadow_blue&line_height=25#gh-light-mode-only" alt="Stephanus Dai's Language stats" />
 </div>
 </details>
+
+<hr>
+<details open>
+ <summary> <b>Code Gist's</b>: </summary>
+<p align="center">
+  
+  [<img width="320px" src="https://github-readme-stats.vercel.app/api/gist?id=0666844edd7e8ce5b89c009703fa063f&card_width=320&theme=shadow_blue">](https://gist.github.com/wiefunkdai/0666844edd7e8ce5b89c009703fa063f)
+  [<img width="320px" src="https://github-readme-stats.vercel.app/api/gist?id=a170fb8886f50a970730630e7b14bd2e&card_width=320&theme=shadow_blue">](https://gist.github.com/wiefunkdai/a170fb8886f50a970730630e7b14bd2e)
+</p>
+</details>
+
 
 <hr>
 <details open>
  <summary> <b>Repository Code's</b>: </summary>
 <p align="center">
   
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdaiofficial&repo=ShellLinuxAutoBackupFile&theme=shadow_blue">](https://github.com/wiefunkdaiofficial/ShellLinuxAutoBackupFile)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdaiofficial&repo=AndroidAjaxGetPostRequest&theme=shadow_blue">](https://github.com/wiefunkdaiofficial/AndroidAjaxGetPostRequest)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdaiofficial&repo=C-NetSDImageResizer&theme=shadow_blue">](https://github.com/wiefunkdaiofficial/C-NetSDImageResizer)
-  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdaiofficial&repo=PascalAULWindows&theme=shadow_blue">](https://github.com/wiefunkdaiofficial/PascalAULWindows)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=ShellLinuxAutoBackupFile&theme=shadow_blue">](https://github.com/wiefunkdai/ShellLinuxAutoBackupFile)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=AndroidAjaxGetPostRequest&theme=shadow_blue">](https://github.com/wiefunkdai/AndroidAjaxGetPostRequest)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=C-NetSDImageResizer&theme=shadow_blue">](https://github.com/sdailover/C-NetSDImageResizer)
+  [<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=wiefunkdai&card_width=320&repo=PascalAULWindows&theme=shadow_blue">](https://github.com/sdailover/PascalAULWindows)
 </p>
 </details>
 
 <hr>
 <div align="center">
 
-|       | <div align="center">Stephanus Dai - 戴偉峯</div> |
+|       | <div align="center">Stephanus Dai (戴偉峯) Developer</div> |
 | :---: | :--- |
-| [<img src="https://github.com/wiefunkdaiofficial.png?size=115" width=115><br><sub>@wiefunkdaiofficial</sub>](https://github.com/wiefunkdaiofficial) | <p align="center">I have some very interesting open source!<br>Let's find and learn so that our knowledge and insight will be better!</p><p align="center">[![](https://img.shields.io/badge/release%20projection-30363D?style=for-the-badge&logo=github&logoColor=#white)](https://github.com/wiefunkdaiofficial)</p> |
+| [<img src="https://github.com/sdailover.png?size=115" width=115><br><sub>@sdailover</sub>](https://github.com/sdailover) | <p align="center">I have some very interesting open source!<br>Let's find and learn so that our knowledge and insight will be better!</p><p align="center">[![](https://img.shields.io/badge/release%20projection-30363D?style=for-the-badge&logo=github&logoColor=#white)](https://github.com/sdailover)</p> |
 
+<h2 align="center">:star: Supported by :star:</h2>
+<div align="center">
+  <a href="https://opencollective.com/wiefunkdai" target="_blank">
+    <img alt="SDaiLover OpenCollective" height="48" src="./opencollective-button.png" title="Thanks for Your Donation">
+  </a><br>
+  <a href="https://paypal.me/wiefunkdai" target="_blank">
+    <img alt="SDaiLover Paypal" src="https://img.shields.io/badge/donate%20via%20paypal-%2300457c.svg?style=for-the-badge&logo=paypal&logoColor=white" title="Thanks for Your Donation">
+  </a>
 </div>
+
+<!--/
+<div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=wiefunkdai&show_icons=true&theme=shadow_green&line_height=27&rank_icon=percentile&custom_title=Stephanus%20Dai%27s%20Github%20Stats">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiefunkdai&hide=css,html,javascript,typescript&theme=shadow_blue">
+</div>
+/-->
