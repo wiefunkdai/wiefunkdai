@@ -1,12 +1,15 @@
 <h2 align="center">:star: Welcome to My Profile :star:</h2>
+<p>&nbsp;</p>
 <p align="center">
   <a href="https://stephanusdai.github.io/">
     <img src="./stephanusdai-logo.svg" alt="StephanusDai Developer" height="165">
   </a>
 </p>
 <div align="center"><a href="https://github.com/wiefunkdai"><img src="https://img.shields.io/github/followers/wiefunkdai?label=Follow&style=social"></a></div>
-<h2 align="center">${\color{red}Hi:wave: \space \color{lightblue}I \space am \space \color{darkorange}Stephanus \space Dai!}$</h2>
-<h4 align="center">I'm ${\color{green} PROGRAMMER}$ for coding with HTML/CSS/Javascript, PHP, C#-Net Visual Studio, Java Android from Indonesia. Born with the name ${\color{darkorange} Stephanus\space Bagus\space Saputra}$ &#40; nickname&#58; ${\color{blue} Stephanus\space Dai}$&#59; chinese&#58; ${\color{blue} 戴dai\space 偉wie\space 峯funk}$ &#41;. In developing and creating software, I focus on development projects for ${\color{red}libraries, \space widgets, \space programming \space tools}$ that have a class-oriented object structure. This aims to make program creation easier, more efficient and practical (user-friendly) and make it easier to deal with program bug/crash situations. Greetings and Regards by @wiefunkdai, nice to met you! make love and stay healthy! :blue_heart:</h4>
+
+$${\color{red}Hi:wave: \space \color{lightblue}I \space am \space \color{darkorange}Stephanus \space Dai!}$$
+
+<p align="center">I'm ${\color{green} PROGRAMMER}$ for coding with HTML/CSS/Javascript, PHP, C#-Net Visual Studio, Java Android from Indonesia. Born with the name ${\color{darkorange} Stephanus\space Bagus\space Saputra}$ &#40; nickname&#58; ${\color{blue} Stephanus\space Dai}$&#59; chinese&#58; ${\color{blue} 戴dai\space 偉wie\space 峯funk}$ &#41;. In developing and creating software, I focus on development projects for ${\color{red}libraries, \space widgets, \space programming \space tools}$ that have a class-oriented object structure. This aims to make program creation easier, more efficient and practical (user-friendly) and make it easier to deal with program bug/crash situations. Greetings and Regards by @wiefunkdai, nice to met you! make love and stay healthy! :blue_heart:</p>
 <div align="center">
   
 [<img src="https://img.shields.io/badge/sourceforge-%23FF6600.svg?style=for-the-badge&logo=sourceforge&logoColor=white">](http://sourceforge.net/u/wiefunkdai)
